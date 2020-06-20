@@ -1,0 +1,10 @@
+.Display input{
+    display: flex;
+    align-items:flex-start;
+    justify-content: center;
+    min-height: 40px;
+    max-width: 320px;
+    min-width: 320px;
+    font-size: 30px;
+    text-align: center;
+}

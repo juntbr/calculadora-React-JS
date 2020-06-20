@@ -1,0 +1,16 @@
+@font-face{
+  font-family: 'HKNOVA';
+  src: url('./fonts/HKNova-Medium.ttf');
+}
+*{
+  font-family: 'HKNOVA', monospace;
+}
+
+body{
+  display:flex;
+  height:100vh;
+  justify-content: Center;
+  color: #ffffff;
+  background: linear-gradient(to right, rgb(83,105,118), rgb(41,46,72))
+  
+}
